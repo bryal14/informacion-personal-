@@ -20,7 +20,7 @@ usuario:
 almeidajobry18
 
 clave:
-bjaN20042007.
+Bjan20042007.
 
 
 
